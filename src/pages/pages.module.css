@@ -1,0 +1,63 @@
+.error {
+  color: var(--highlight-color);
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.success {
+  border: 1px solid var(--success-color);
+  border-radius: 3px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 8px 15px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.secondary_text {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  color: var(--color-gray-7);
+  margin: 0 auto;
+}
+
+.link {
+  margin-left: 5px;
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.separator {
+  margin: 10px 0 0;
+  background-color: var(--color-gray-4);
+  border: none;
+  height: 1px;
+  width: 100%;
+}
+
+.error_page {
+  width: 400px;
+  margin: 120px auto 30px;
+}
+
+.error_page h2 {
+  font-size: 80px;
+  line-height: 75px;
+  margin: 10px 0;
+}
