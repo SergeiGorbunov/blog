@@ -1,1 +1,1 @@
-DEMO: https://blog-two-kappa-32.vercel.app/
+DEMO: https://blog-sergeigorbunov.vercel.app
